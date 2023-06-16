@@ -1,0 +1,15 @@
+C:\Users\citya\source\repos\KeyValue\KeyValue\bin\Debug\net6.0\KeyValue.exe
+C:\Users\citya\source\repos\KeyValue\KeyValue\bin\Debug\net6.0\KeyValue.deps.json
+C:\Users\citya\source\repos\KeyValue\KeyValue\bin\Debug\net6.0\KeyValue.runtimeconfig.json
+C:\Users\citya\source\repos\KeyValue\KeyValue\bin\Debug\net6.0\KeyValue.dll
+C:\Users\citya\source\repos\KeyValue\KeyValue\bin\Debug\net6.0\KeyValue.pdb
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.csproj.AssemblyReference.cache
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.AssemblyInfoInputs.cache
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.AssemblyInfo.cs
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.csproj.CoreCompileInputs.cache
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.dll
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\refint\KeyValue.dll
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.pdb
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\KeyValue.genruntimeconfig.cache
+C:\Users\citya\source\repos\KeyValue\KeyValue\obj\Debug\net6.0\ref\KeyValue.dll

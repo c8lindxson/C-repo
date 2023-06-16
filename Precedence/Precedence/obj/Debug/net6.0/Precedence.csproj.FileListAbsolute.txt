@@ -1,0 +1,15 @@
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.csproj.AssemblyReference.cache
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.AssemblyInfoInputs.cache
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.AssemblyInfo.cs
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.csproj.CoreCompileInputs.cache
+C:\Users\citya\source\repos\Precedence\Precedence\bin\Debug\net6.0\Precedence.exe
+C:\Users\citya\source\repos\Precedence\Precedence\bin\Debug\net6.0\Precedence.deps.json
+C:\Users\citya\source\repos\Precedence\Precedence\bin\Debug\net6.0\Precedence.runtimeconfig.json
+C:\Users\citya\source\repos\Precedence\Precedence\bin\Debug\net6.0\Precedence.dll
+C:\Users\citya\source\repos\Precedence\Precedence\bin\Debug\net6.0\Precedence.pdb
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.dll
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\refint\Precedence.dll
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.pdb
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\Precedence.genruntimeconfig.cache
+C:\Users\citya\source\repos\Precedence\Precedence\obj\Debug\net6.0\ref\Precedence.dll
